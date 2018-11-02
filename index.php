@@ -7,8 +7,8 @@
     <title>StartUP</title>
 </head>  
 <body>  
-    <header></header>
-    <nav></nav>
+    <header>+7(927)XXX XX XX</header>
+    <nav><a href="index2.php">Страница 2</a></nav>
     <section>
 <?php
 echo "Hello!!!";
@@ -16,6 +16,6 @@ echo "Привет мир";
 echo "Страница 1";
 ?>
     </section>
-    <footer></footer>
+    <footer>&copy;2018 все права защещины</footer>
 </body>  
 </html>
