@@ -9,6 +9,7 @@
 <body>  
     <header>+7(927)XXX XX XX</header>
     <nav><a href="index2.php">Страница 2</a></nav>
+    <section id="slider"><img src="/banner-001.jpg"></section>
     <section>
 <?php
 echo "Hello!!!";
