@@ -8,7 +8,7 @@
 </head>  
 <body>  
     <header>+7(927)XXX XX XX</header>
-    <nav><a href="index2.php">Страница 2</a></nav>
+    <nav><a href="index.php">Главная</a><a href="index2.php">Страница 2</a><a href="index3.php">Страница 3</a></nav>
     <section id="slider">
         <div class="owl-carusel">
             <div class="item"><img src="/banner-001.jpg"></div>
