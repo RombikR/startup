@@ -16,6 +16,13 @@
             <div class="item"><img src="/banner-003.jpg"></div>
         </div>
     </section>
+<section id="advantages">
+    <ul>
+        <li>1 Мы быстрее</li>
+        <li>2 Мы выше</li>
+        <li>3 Мы сильнее</li>
+    </ul>
+</section>
     <section>
 <?php
 echo "Hello!!!";
