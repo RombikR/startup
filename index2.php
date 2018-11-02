@@ -8,6 +8,7 @@
 </head>  
 <body>  
 <?php
+echo "Hello!!!";
 echo "Страница 2";
 ?>
 </body>  
