@@ -8,7 +8,7 @@
 </head>  
 <body>  
     <header></header>
-    <nav></nav>
+    <nav><a href="index2.php">Страница 2</a></nav>
     <section>
 <?php
 echo "Hello!!!";
