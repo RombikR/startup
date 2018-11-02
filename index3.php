@@ -7,20 +7,13 @@
     <title>StartUP</title>
 </head>  
 <body>  
-    <header>+7(927)XXX XX XX</header>
+<header>+7(927)XXX XX XX</header>
     <nav><a href="index.php">Главная</a><a href="index2.php">Страница 2</a><a href="index3.php">Страница 3</a></nav>
-    <section id="slider">
-        <div class="owl-carusel">
-            <div class="item"><img src="/banner-001.jpg"></div>
-            <div class="item"><img src="/banner-002.jpg"></div>
-            <div class="item"><img src="/banner-003.jpg"></div>
-        </div>
-    </section>
     <section>
 <?php
 echo "Hello!!!";
 echo "Привет мир";
-echo "Страница 1";
+echo "Страница 3";
 ?>
     </section>
     <footer>&copy;2018 все права защещины</footer>
