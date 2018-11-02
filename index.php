@@ -13,6 +13,7 @@
         <div class="owl-carusel">
             <div class="item"><img src="/banner-001.jpg"></div>
             <div class="item"><img src="/banner-002.jpg"></div>
+            <div class="item"><img src="/banner-003.jpg"></div>
         </div>
     </section>
     <section>
