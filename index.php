@@ -7,7 +7,7 @@
     <title>StartUP</title>
 </head>  
 <body>  
-    <header></header>
+    <header>+7(927)XXX XX XX</header>
     <nav><a href="index2.php">Страница 2</a></nav>
     <section>
 <?php
