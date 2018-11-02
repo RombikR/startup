@@ -7,10 +7,15 @@
     <title>StartUP</title>
 </head>  
 <body>  
+    <header></header>
+    <nav></nav>
+    <section>
 <?php
 echo "Hello!!!";
 echo "Привет мир";
 echo "Страница 1";
 ?>
+    </section>
+    <footer></footer>
 </body>  
 </html>
