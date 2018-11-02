@@ -16,6 +16,6 @@ echo "Привет мир";
 echo "Страница 1";
 ?>
     </section>
-    <footer></footer>
+    <footer>&copy;2018 все права защещины</footer>
 </body>  
 </html>
