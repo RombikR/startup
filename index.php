@@ -18,9 +18,9 @@
     </section>
     <section id="advantages">
         <ul>
-            <li>1 Мы быстрее</li>
-            <li>2 Мы выше</li>
-            <li>3 Мы сильнее</li>
+            <li>1. Мы быстрее</li>
+            <li>2. Мы выше</li>
+            <li>3. Мы сильнее</li>
         </ul>
     </section>
     <section>
