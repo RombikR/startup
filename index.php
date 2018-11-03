@@ -35,7 +35,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-6">&copy;2018 Все права защищены</div>
-                <div class="col-6">Developed by me</div>
+                <div class="col-6">Developed by <a href="http://example.com">me</a></div>
             </div>
         </div>
     </footer>
