@@ -7,5 +7,9 @@
     <title>StartUP</title>
 </head>
 <body>
+    <header></header>
+    <nav></nav>
+    <section></section>
+    <footer></footer>
 </body>
 </html>
