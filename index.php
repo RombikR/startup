@@ -37,7 +37,7 @@
             <div class="row">
                 <div class="col-4">&copy;2018 Все права защищены</div>
                 <div class="col-4">Developed by <a href="http://example.com">me</a></div>
-                <div class="col-4"><a href="#">To top</a></div>
+                <div class="col-4"><a href="#"><i class="fas fa-angle-up"></i> To top</a></div>
             </div>
         </div>
     </footer>
