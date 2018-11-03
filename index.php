@@ -34,7 +34,7 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col-12">FOOTER</div>
+                <div class="col-12">&copy;2018 Все права защищены</div>
             </div>
         </div>
     </footer>
